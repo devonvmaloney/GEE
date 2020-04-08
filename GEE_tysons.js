@@ -4,6 +4,12 @@
 //Location: Tysons, Virginia
 //Years: 1989, 1999, 2009, 2014, 2019
 
+//Google Earth Engine Time 
+//Devon Maloney 
+
+//Location: Tysons, Virginia
+//Years: 1989, 1999, 2009, 2014, 2019
+
 
 /**
  * Function to mask clouds based on the pixel_qa band of Landsat 8 SR data.
